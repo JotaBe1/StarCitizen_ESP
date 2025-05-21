@@ -1,10 +1,6 @@
 # StarCitizen_ESP
 
 Traduccion a Español de Star Citizen. Star Citizen Tranlate to Spanish
-
-Hola.
-
-Tutorial para instalar la version española del texto de Star Citizen.
 # Traducida por: Jota_be
 # TWITCH - 
 https://www.twitch.tv/jota_be
