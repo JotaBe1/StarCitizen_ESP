@@ -5,11 +5,14 @@ Traduccion a Español de Star Citizen. Star Citizen Tranlate to Spanish
 Hola.
 
 Esto es un tutorial para instalar la version española del texto de Star Citizen.
-Traducida por Jota_be( https://www.twitch.tv/jota_be)
+# Traducida por:
+Jota_be( https://www.twitch.tv/jota_be)
 
-TWITCH - https://www.twitch.tv/jota_be
-DISCORD - https://discord.gg/bjXEegnrff
-GUIA COMPLETA Star Citizen en Español: https://goo.su/w4rXu
+# TWITCH - 
+https://www.twitch.tv/jota_be
+# DISCORD - 
+https://discord.gg/bjXEegnrff
+
 
 
 # FUNCIONA CON LA ULTIMA VERSION LIVE DE STAR CITIZEN
@@ -37,6 +40,8 @@ Y el archivo global.ini en \data\Localization\spanish_(spain)  ( tendras que cre
 # Errores Conocidos: 
 *.Hay algunos errores que se iran solucionando en la traduccion, menus, etc, muchos acentos, tildes y texto de misiones estan en proceso de revision.
 
+# GUIA COMPLETA Star Citizen en Español: 
+https://goo.su/w4rXu
 
 # --------========*******   ¡¡¡¡¡ATENCION!!!!! ******=======---------
 SI NO SABES LO QUE ESTAS TOCANDO, NO LO TOQUES.
