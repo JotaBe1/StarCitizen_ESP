@@ -2,14 +2,15 @@
 
 Traduccion a Español de Star Citizen. Star Citizen Translate to Spanish
 # Traducida por: Jota_be
+
+# FUNCIONA CON ULTIMA VERSION LIVE DE STAR CITIZEN
+
+[DESCARGA ULTIMA VERSION: ](https://github.com/JotaBe1/StarCitizen_ESP/releases) 
+
 # TWITCH - 
 https://www.twitch.tv/jota_be
 # DISCORD - 
 https://discord.gg/bjXEegnrff
-
-# FUNCIONA CON LA ULTIMA VERSION LIVE DE STAR CITIZEN
-
-[DESCARGA ULTIMA VERSION: ](https://github.com/JotaBe1/StarCitizen_ESP/releases) 
 
 # ------======   Instrucciones   ======------
 
